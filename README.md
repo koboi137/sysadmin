@@ -31,3 +31,5 @@ Hal hal penting yang harus di perhatikan dalam mengelola server ( Masih acak )
 27. Cek cronjob atau crontab setiap waktu
 28. Cek setiap service yang berjalan agar tidak terjadi misconfigurasi
 29. Hanya izinkan port yang terbuka saja yang bisa di akses publik menggunakan ufw/iptables
+30. Enkripsi setiap script config database yang di gunakan di server atau pindahkan ke folder yang tidak biasanya
+31. Di history command jangan tertinggal password apapun
